@@ -1,0 +1,39 @@
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.pdb
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.Properties.Resources.resources
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.exe
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.pdb
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.Pokedex.resources
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.exe
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.pdb
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.Pokedex.resources
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.Properties.Resources.resources
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.exe
+C:\Users\edilson.csilva10\source\repos\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.pdb
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.exe
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\bin\Debug\PokemonAPI.pdb
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.Pokedex.resources
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.Properties.Resources.resources
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.exe
+C:\Users\edilson.csilva10\source\repos\pokedexx\Pokedex\PokemonAPI\obj\Debug\PokemonAPI.pdb
