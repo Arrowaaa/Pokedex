@@ -14,7 +14,7 @@ peso, tamanho e entre outros.*
    - [x] *Retorna as informação do pokemon*
     
 - [ ] *Replicar forma fiel de uma pokédex*
-- [ ] *Retorna e exibir mais informações como do pokémons como HP/ATK/DEF/SPD/EXP
+- [ ] *Retorna e exibir mais informações como do pokémons como HP/ATK/DEF/SPD/EXP*
 
 
 ### Sub Subtitulo
