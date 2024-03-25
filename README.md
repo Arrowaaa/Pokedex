@@ -1,5 +1,5 @@
 # POKÉDEX
-> *Projeto feito para replicar um pokedex do jogo pokémon, ondetmemos como objetivo consultar uma API web que nos retornas as informações de pokemon, como imagem, nome,
+> *Projeto feito para replicar um pokedex do jogo pokémon, onde temos como objetivo consultar uma API web que nos retornas as informações de pokemon, como imagem, nome,
 peso, tamanho e entre outros.*
 > ![screenshot](https://github.com/Arrowaaa/Pokedex/assets/141832297/77b0d9ef-bd66-47bd-ad65-c87ce0448c56)
 
