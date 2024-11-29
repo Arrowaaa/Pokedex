@@ -1,2 +1,2 @@
-# pokedex
-pokedex c#
+# Pokedex
+Pokedex C#
