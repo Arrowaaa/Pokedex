@@ -1,5 +1,5 @@
 # POKÉDEX
-> *Projeto feito para replicar um pokedex do jogo pokémon, sendo ela usando a linguagem C# e a outra PHP, onde temos como objetivo consultar uma API web que nos retornas as informações de pokemon, como sua imagem, nome e seu número de registro e uma barra de pesquisa para busca pelo pokémon sendo seu nome ou número e 2 botões (Anterior/Próximo).*
+> *Projeto feito para replicar um pokedex do jogo pokémon, sendo ela usando a linguagem C# e a outra PHP, onde temos como objetivo consultar uma API web que nos retornas as informações de pokemon, como sua imagem, nome e seu número de registro.*
 
 > ![GravaodeTela2024-11-29123925-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fae0aad0-1ede-4bc6-9b23-bf2367df08fe)
 
